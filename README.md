@@ -1,2 +1,2 @@
 # CryptoNo01
-# 01cryptography1nJava
+# 01cryptographyinJava
